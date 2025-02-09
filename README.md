@@ -33,11 +33,11 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <p align="center">
-    <img width="48%" src="https://streak-stats.demolab.com/?user=yourusername&theme=react&border=61dafb&hide_border=true"/>
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=react&border_color=61dafb&hide_border=true"/>
+    <a href="https://github.com/yourusername?tab=overview"><img width="48%" src="https://streak-stats.demolab.com/?user=yourusername&theme=react&border=61dafb&hide_border=true" alt="Streak Stats"/></a>
+    <a href="https://github.com/yourusername?tab=repositories"><img width="48%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="GitHub Stats"/></a>
 </p>
 <p align="center">
-    <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5"/>
+    <a href="https://github.com/yourusername?tab=repositories"><img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" alt="Top Languages"/></a>
 </p>
 
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
