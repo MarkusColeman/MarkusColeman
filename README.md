@@ -4,6 +4,16 @@
   </a>
 </h1>
 
+<h2 align="center">Hi, I'm [Your Name]</h2>
+<p align="center">
+  💼 [Your Job Title] | [Your Field of Expertise] <br>
+  📍 [Your Location] <br>
+  🔬 Currently learning: [What You're Learning] <br>
+  📚 Education: [Degree, Certifications, or Training] <br>
+  💻 Passionate about: [Coding, Data Science, etc.] <br>
+  📫 Contact me: [Your Email or Other Contact] <br>
+</p>
+
 <h2 align="center">Technologies</h2>
 <p align="center">
 	<img title="Hadoop" alt="Hadoop" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/hadoop.svg" width="70" height="40"/>
