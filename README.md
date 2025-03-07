@@ -19,7 +19,7 @@
   🌍 Global Citizen & Data Enthusiast
   <br>
   <br>
-  🚀 Aspiring Data Analyst | Federal Program Manager | Transitioning to Data Analytics
+  🚀 Aspiring Data Analyst | Federal Program Manager | Transitioning from government to Private Sector (2025)
   <br>
   📜 Project Management Professional (PMP) Certified
   <br>
