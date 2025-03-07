@@ -19,21 +19,21 @@
   🌍 Global Citizen & Data Enthusiast
   <br>
   <br>
-  ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+  🚀 Aspiring Data Analyst | Federal Program Manager | Transitioning to Data Analytics
   <br>
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
+  📜 Project Management Professional (PMP) Certified
   <br>
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
+  🎓 University of London | University of Texas at San Antonio 
   <br>
- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
+ ✈️ Expat | Exploring the World While Working Remotely | Open to International Opportunities
   <br>
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
+  ✍️ Blogging About Data & Career Transition Insights
   <br>
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
+ 🖥️  Data Analytics | Python | SQL | Power BI | Tableau
   <br>
   💬 Ask me anything about from <a href="https://github.com/" title="Issues">Here</a>
   <br>
-  📫 How to reach me: <a href="mailto: ">mail.com</a>
+  📫 How to reach me: <a href="mailto: ">markus@markuscoleman.com</a>
 </p>
 
 <hr>
